@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": "6c04440f-436f-4fb4-8904-96ee81dca5c1",
+      "name": "G SOMANATH",
+      "mobile": "6305456697",
+      "email": "gsomanath2502@gmail.com"
+    },
+    {
+      "id": "d2912b71-4fd6-49f5-987e-3704001c11a9",
+      "name": "Siva Somanath",
+      "mobile": "6305456698",
+      "email": "gsomanath@gmail.com"
+    },
+    {
+      "id": "c28d1cc0-2bf4-4ea5-b16b-399173a3ae5e",
+      "name": "GUDURU VEERA SIVA SOMANATH",
+      "mobile": "6305456698",
+      "email": "gsomanath@gmail.com"
+    },
+    {
+      "id": "317a0e31-76ed-4a4b-996c-9983863ada93",
+      "name": "veera",
+      "mobile": "6302990791",
+      "email": "gsomanath@gmail.com"
+    },
+    {
+      "id": "5301551a-09a7-495b-a0f3-74cfac42d8d0",
+      "name": "Mom",
+      "mobile": "9490494650",
+      "email": "gjyothi2311@gmail.com"
+    },
+    {
+      "id": "72f0b838-66fd-41a3-8c96-2771ab2790e4",
+      "name": "Aswini",
+      "mobile": "6302990791",
+      "email": "aswinisgf@gmail.com"
+    }
+  ]
+}
